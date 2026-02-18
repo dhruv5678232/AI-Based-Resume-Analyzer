@@ -431,5 +431,6 @@ def run():
             else:
                 st.error("Wrong ID & Password Provided")
 
+pip install --upgrade pip
 
 run()
